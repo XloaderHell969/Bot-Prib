@@ -28,7 +28,7 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6288294029936, true],
+['6288294029936', true],
 ['6288294029936', 'Xloader', true],
 ['6287798246641', 'Linda', true]
 ]
