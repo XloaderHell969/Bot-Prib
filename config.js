@@ -28,23 +28,23 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6285813708397', true],
-['6285813708397', 'FallZx', true],
-['6285760451683', 'Zeltoria', true]
+['6288294029936, true],
+['6288294029936', 'Xloader', true],
+['6287798246641', 'Linda', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6285813708397'
-global.nomorown1 = '6285813708397'
-global.nomorown2 = '6285813708397'
-global.nomorwa = '6285813708397'
+global.nomorbot = '6285171230159'
+global.nomorown = '6288294029936'
+global.nomorown1 = '6288294029936'
+global.nomorown2 = '6287798246641'
+global.nomorwa = '6288294029936'
 
 
 global.readMore = readMore
-global.author = 'FallZx'
-global.namebot = '​Kilua - MD'
-global.wm = '© Kilua By FallZx'
+global.author = 'Xloader'
+global.namebot = '​Vel-Md'
+global.wm = '© Vel By Velin'
 global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
 global.watermark = wm
 global.wm2 = 'FallZx'
