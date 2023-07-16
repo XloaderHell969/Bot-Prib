@@ -45,34 +45,34 @@ global.readMore = readMore
 global.author = 'Xloader'
 global.namebot = '​Vel-Md'
 global.wm = '© Vel By Velin'
-global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
+global.media = 'https://i.ibb.co/GJyCkYn/Anonymous-logo-402778.jpg'
 global.watermark = wm
-global.wm2 = 'FallZx'
+global.wm2 = 'Xloader'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Kilua - MD`
-global.stickpack = 'Kilua By FallZx'
-global.stickauth = `© FallZx`
+global.titlebot = `Vel - MD`
+global.stickpack = 'Vel By Xloader'
+global.stickauth = `© Xloader`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'FallZx'
-global.nameown2 = 'Zeltoria'
+global.nameown1= 'Velin'
+global.nameown2 = 'Linda'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://www.instagram.com/fallxd_781' //instagram
-global.sgh = 'https://github.com/FallEzz' //github
-global.sgc = 'https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ' //group whatsapp
+global.sig = 'https://www.instagram.com/nothing' //instagram
+global.sgh = 'https://github.com/nothing' //github
+global.sgc = 'https://chat.whatsapp.com/nfwfijwibfiwjfihf' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/@FallXD425' //youtube
+global.snh = 'https://www.youtube.com/@xloaderhell666' //youtube
 //Donasi/Payment
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.pdana = '0858-1370-8397' // dana
-global.povo = 'ga punya'
-global.pgopay = '0858-1370-8397' // gopay
+global.psaweria = 'https://saweria.co/xloader'
+global.ptrakterr = 'https://trakteer.id/xloader'
+global.pdana = '0851-7123-0159' // dana
+global.povo = '0822-9402-9346'
+global.pgopay = '0851-7123-0159' // gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '0858-1370-8397' // pulsa
+global.ppulsa = '0822-9402-9346' // pulsa
 global.ppulsa2 = '-' //pulsa 2
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -176,7 +176,7 @@ global.rpg = {
 }
 
 // untuk apikey biarin aja pake ini aja kalau fitur error beli apikeynya
-global.uptime = '' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
+global.uptime = 'u2204126-9cf5bbe734d722337380ffc2' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
 global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'org-VKTbfzIGL0EfLb8RgRfbLvbu'  //openAI Organization name
 global.deepai = 'quickstart-QUdJIGlzIGNvbWluZy4uLi4K' // https://deepai.org
