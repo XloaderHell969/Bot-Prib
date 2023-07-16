@@ -22,7 +22,7 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '6282389924037@s.whatsapp.net'), 'Vynα Vαlerié.', 'https://shoplinks.to/vyna-store', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '6288294029936@s.whatsapp.net'), 'Xloader.', 'https://www.youtube.com/@xloaderhell666', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -38,13 +38,13 @@ handler.all = async function (m) {
 				//isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
-					title: "Kilua - Multi-Device",
+					title: "Vel",
 					body: "Chat Bot WhatsApp",
 					mediaUrl: sgc,
 					description: 'Euphyllia - MD',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pp)).buffer(),
-					sourceUrl: "https://shoplinks.to/vyna-store",					
+					sourceUrl: "https://www.youtube.com/@xloaderhell666",					
 				}
 			}
 		}
